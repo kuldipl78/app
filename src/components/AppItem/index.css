@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.app-Container {
+  display: flex;
+  flex-direction: row;
+}
+
+.app{
+    background-color: white;
+    width: 300px;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
